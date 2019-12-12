@@ -55,18 +55,18 @@ T.T,2.13,2.13,2.38,2.38,2.38,11.38,Mixed,9
 Trail Mix,2.13,2.38,2.13,2.75,2.13,11.5,Mixed,18
 Union,1.75,1.75,2.38,2.25,2.5,10.63,Mixed,5
 Victoria Gulls n' Buoys,2.13,2.13,2.5,2.75,2.25,11.75,Mixed,15
-1778,1.88,2,2.25,2.25,2.13,10.5,Masters Mixed,10
-BoD,2,1.88,2.13,2,2.13,10.13,Masters Mixed,9
-Firefly,2,2.38,2.38,3,2.25,12,Masters Mixed,12
-Flux,1.88,1.5,2,1.75,2,9.13,Masters Mixed,2
-Gaia Sale,2,2.13,2,2,1.75,9.88,Masters Mixed,4
-Happy Campers,2,2,2.38,2.38,2.38,11.13,Masters Mixed,5
-Kitchen Party,1.63,1.75,2.5,2.5,2.5,10.88,Masters Mixed,11
-Mastadon,2,1.75,2,2.38,2.38,10.5,Masters Mixed,7
-Notorious KWG,2.13,2,2.5,2.38,2.38,11.38,Masters Mixed,3
-Penguin Village Ultimate,2.13,2.13,2.25,2.5,2.38,11.38,Masters Mixed,8
-Qold,1.75,1.13,1.63,1.75,2,8.25,Masters Mixed,1
-ReUnion,2,1.63,2.38,2.13,1.88,10,Masters Mixed,6
+1778,1.88,2,2.25,2.25,2.13,10.5,Mixed Masters,10
+BoD,2,1.88,2.13,2,2.13,10.13,Mixed Masters,9
+Firefly,2,2.38,2.38,3,2.25,12,Mixed Masters,12
+Flux,1.88,1.5,2,1.75,2,9.13,Mixed Masters,2
+Gaia Sale,2,2.13,2,2,1.75,9.88,Mixed Masters,4
+Happy Campers,2,2,2.38,2.38,2.38,11.13,Mixed Masters,5
+Kitchen Party,1.63,1.75,2.5,2.5,2.5,10.88,Mixed Masters,11
+Mastadon,2,1.75,2,2.38,2.38,10.5,Mixed Masters,7
+Notorious KWG,2.13,2,2.5,2.38,2.38,11.38,Mixed Masters,3
+Penguin Village Ultimate,2.13,2.13,2.25,2.5,2.38,11.38,Mixed Masters,8
+Qold,1.75,1.13,1.63,1.75,2,8.25,Mixed Masters,1
+ReUnion,2,1.63,2.38,2.13,1.88,10,Mixed Masters,6
 Alberta Flatball Club,2,1.88,2,2.5,2.75,11.13,Open,4
 Berta Flatball Club,2.38,2.5,3,2.75,2.38,13,Open,16
 Blackfish,2,1.75,2.25,1.88,2.25,10.13,Open,6
@@ -99,19 +99,19 @@ Nebula,1.86,1.71,2,2.43,2.29,10.29,Masters Women,6
 PNW Basic,2,1.43,1.86,2,2.29,9.57,Masters Women,3
 Quasar,2.14,1.86,2.43,2.29,2.43,11.14,Masters Women,4
 Throwback,2.14,2.57,2.71,2.86,2.43,12.71,Masters Women,8
-6ixers,1.88,1.88,2,2.13,1.88,9.75,Womens,1
-CUFM - Vénus,2,1.75,2,2,2,9.75,Womens,13
-Flurry,1.78,1.78,2.44,2.11,2.44,10.56,Womens,10
-Fusion,2,1.88,2.5,2.63,2.13,11.13,Womens,5
-Iris,2,2,2,2.25,2.25,10.5,Womens,2
-Koi,1.75,1.75,2.25,2.5,2,10.25,Womens,15
-Korra,2,2.11,2.11,2.44,2.22,10.89,Womens,7
-Luna Ultimate,2,1.67,2,2,2.11,9.78,Womens,8
-Nox,1.75,2,2.38,2.5,2.38,11,Womens,14
-PPF,2.11,2,2.22,2.33,2.22,10.89,Womens,11
-Sneaky House Hippos,2,1.75,2,2.13,2,9.88,Womens,6
-Stella,2,2,2,2.25,2,10.25,Womens,4
-TOX6ix,1.88,1.75,2.13,2.13,2.13,10,Womens,9
-Traffic,2,1.75,2.13,2.13,2,10,Womens,3
-Vixxen,2,2.13,2.38,2.63,2,11.13,Womens,16
-Wild,1.88,1.88,2.25,2.38,2.13,10.5,Womens,12
+6ixers,1.88,1.88,2,2.13,1.88,9.75,Women,1
+CUFM - Vénus,2,1.75,2,2,2,9.75,Women,13
+Flurry,1.78,1.78,2.44,2.11,2.44,10.56,Women,10
+Fusion,2,1.88,2.5,2.63,2.13,11.13,Women,5
+Iris,2,2,2,2.25,2.25,10.5,Women,2
+Koi,1.75,1.75,2.25,2.5,2,10.25,Women,15
+Korra,2,2.11,2.11,2.44,2.22,10.89,Women,7
+Luna Ultimate,2,1.67,2,2,2.11,9.78,Women,8
+Nox,1.75,2,2.38,2.5,2.38,11,Women,14
+PPF,2.11,2,2.22,2.33,2.22,10.89,Women,11
+Sneaky House Hippos,2,1.75,2,2.13,2,9.88,Women,6
+Stella,2,2,2,2.25,2,10.25,Women,4
+TOX6ix,1.88,1.75,2.13,2.13,2.13,10,Women,9
+Traffic,2,1.75,2.13,2.13,2,10,Women,3
+Vixxen,2,2.13,2.38,2.63,2,11.13,Women,16
+Wild,1.88,1.88,2.25,2.38,2.13,10.5,Women,12
