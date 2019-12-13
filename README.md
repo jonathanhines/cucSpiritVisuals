@@ -32,3 +32,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * This work was done on as part of a study for Ontario Ultimate
+* Thanks to Ultimate Canada granted permission for the use and inclusion of data from their tournament.

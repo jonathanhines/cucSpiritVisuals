@@ -64,8 +64,6 @@ def plot(year, coords):
             arrowprops=dict(arrowstyle='->', facecolor='black'),
             horizontalalignment='right', verticalalignment='top',
         )
-        # ax.ylabel('Average Spirit Score')
-        # ax.xlabel('Tournament Rank')
 
         ax.set_xticks(np.arange(0, 120, 20))
         ax.set_xlim(x_limits)
