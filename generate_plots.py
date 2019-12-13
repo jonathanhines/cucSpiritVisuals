@@ -1,7 +1,11 @@
-import make_chart_normalized
-import make_chart
-import make_team_charts
-import make_team_charts_normalized
+import src.summary as summary
+import src.division_subplots as division_subplots
+import src.summary_normalized as summary_normalized
+import src.division_subplots_normalized as division_subplots_normalized
+import os
+
+os.makedirs("./results", exist_ok=True)
+
 y_limits = [7.5,14.5]
 plot_defs = {
     "2018": {
@@ -48,6 +52,8 @@ plot_defs = {
     }
 }
 
-
 for year, plot_coords in plot_defs.items():
-    make_team_charts_normalized.plot(year, plot_coords)
+    summary.plot(year)
+    division_subplots.plot(year)
+    summary_normalized.plot(year)
+    division_subplots_normalized.plot(year, plot_coords)

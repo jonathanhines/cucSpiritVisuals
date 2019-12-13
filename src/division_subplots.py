@@ -5,9 +5,9 @@ from numpy.polynomial.polynomial import polyfit
 import scipy.stats
 
 def plot(year):
-    filePath = "CUC" + year + "_charts.csv"
+    filePath = "./data/CUC" + year + ".csv"
     chart_title = "CUC" + year + " Average Spirit Score by Division"
-    chart_file_name = "CUC" + year + "_SOTG_vs_rank_by_division.png"
+    chart_file_name = "./results/CUC" + year + "_SOTG_vs_rank_by_division.png"
     df = pd.read_csv(filePath)
 
     # Table of results 
@@ -15,7 +15,6 @@ def plot(year):
     divisions.sort()
     fig, axs = plt.subplots(4, 2, figsize=(12,16), dpi=300)
 
-    print(divisions)
     row = 0
     column = 0
     for i, division in enumerate(divisions):

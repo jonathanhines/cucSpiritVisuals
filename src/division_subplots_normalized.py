@@ -5,11 +5,10 @@ from numpy.polynomial.polynomial import polyfit
 import scipy.stats
 
 def plot(year, coords):
-    filePath = "CUC" + year + "_charts.csv"
+    filePath = "./data/CUC" + year + ".csv"
     chart_title = "CUC" + year + " Average Spirit Score by Division"
-    chart_file_name = "CUC" + year + "_SOTG_vs_rank_by_division_normalized.png"
+    chart_file_name = "./results/CUC" + year + "_SOTG_vs_rank_by_division_normalized.png"
     df = pd.read_csv(filePath)
-    print(coords)
 
     # Table of results 
     divisions = df["Division"].unique()
@@ -44,7 +43,7 @@ def plot(year, coords):
         m, b, r_value, p_value, std_err = scipy.stats.linregress(x, y)
         ax.plot(
             x_limits,
-            b + m * x_limits,
+            [m * x_limit + b for x_limit in x_limits],
             linestyle='-',
             color="#FD7F28"
         )

@@ -5,9 +5,9 @@ from numpy.polynomial.polynomial import polyfit
 import scipy.stats
 
 def plot(year):
-    filePath = "CUC" + year + "_charts.csv"
+    filePath = "./data/CUC" + year + ".csv"
     chart_title = "CUC" + year + " Average Spirit Score vs Normalized Rank"
-    chart_file_name = "CUC" + year + "_SOTG_vs_rank_normalized.png"
+    chart_file_name = "./results/CUC" + year + "_SOTG_vs_rank_normalized.png"
     df = pd.read_csv(filePath)
 
     colors = plt.get_cmap("tab20").colors
