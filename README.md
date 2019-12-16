@@ -21,6 +21,16 @@ To run this code you will need:
 - numpy
 - scipy
 
+### Running the Scripts
+
+Issue:
+
+```
+python generate_plots.py
+```
+
+from the project root. Results should be placed in a `results` folder off the project root.
+
 ## Authors
 
 * **Jonathan Hines** - *Initial work* - [Github](https://github.com/jonathanhines)
